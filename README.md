@@ -26,10 +26,4 @@ This project analyzes a dataset of 12,000+ Airbnb listings in Manali to identify
 
 2. **Top Area:** The central Manali neighborhood offers the highest density of budget-friendly, high-rated options compared to surrounding areas.
 
-## **Why this is important for your project:**
 
-1. **Professionalism:** It shows you can document your work for a technical audience.
-
-2. **Accessibility:** Someone can understand your results without having to run your code or read through every cell.
-
-3. **Portfolio Ready:** If you upload this to GitHub, the README will be the first thing recruiters or collaborators see.
